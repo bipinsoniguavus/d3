@@ -28,10 +28,10 @@
   "main": "d3.js",
   "browser": "d3.js",
   "jspm": {
-    "main": "d3",
+    "main": "d3v3",
     "shim": {
-      "d3": {
-        "exports": "d3"
+      "d3v3": {
+        "exports": "d3v3"
       }
     },
     "files": [
@@ -44,7 +44,7 @@
   "jam": {
     "main": "d3.js",
     "shim": {
-      "exports": "d3"
+      "exports": "d3v3"
     }
   },
   "spm": {
